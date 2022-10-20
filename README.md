@@ -9,3 +9,4 @@ But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 This is my first edit! Hello !
 
 My name is Katrina.
+I like dogs.
